@@ -1,9 +1,8 @@
 # 👨‍💻 <Gabriel_Takuya>
 
 <h3 align="center"> Olá, bem vindo ao meu perfil, me chamo Gabriel Takuya Yamamoto, no momento estou cursando o 3° ano em Desenvolvimento de Sistemas na Etec Professor Camargo Aranha.<h3>
-</br>
 
-<h1> 💻 Tecnologias e ferramentas que utilizo</h1>
+<h2> 💻 Tecnologias e ferramentas que utilizo</h2>
 
 <p align="center">
 <code title="CSS"><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>&nbsp;&nbsp;
@@ -16,11 +15,11 @@
 <code title="git"><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>&nbsp;&nbsp;
 <code title="VsCode"><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></code>&nbsp;&nbsp;
 
-[![Takkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takkuya&show_icons=true&theme=dracula)](https://github.com/Takkuya/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Takkuya&show_icons=true&theme=dracula&hide=prs,issues" alt="Minhas estatísticas como desenvolvedor" />
 
 </p>
 
-<h1> 📱 Contato </h1>
+<h2> 📱 Contato </h2>
 <h3 align="center">Sinta se a vontade de me contatar em uma dessas platataformas, estou sempre disposto a novas amizades e oportunidades: </h3>
 </br>
 <p align="center">
