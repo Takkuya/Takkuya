@@ -29,7 +29,7 @@
 &nbsp;
 </a>
 
-<a href="http://takuyagabriel@gmail.com/">
+<a href="mailto:takuyagabriel@gmail.com ">
     <img src="https://img.shields.io/badge/%20-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"  style="width:10%;" >
 </a>
 </p>
