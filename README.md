@@ -21,7 +21,7 @@
 </p>
 
 <h2> 📱 Contato </h2>
-<h3 align="center">Sinta-se a vontade de me contatar em uma dessas platataformas, estou sempre disposto às novas amizades e oportunidades: </h3>
+<h3 align="center">Sinta-se à vontade de me contatar em uma dessas platataformas, estou sempre disposto às novas amizades e oportunidades: </h3>
 </br>
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-takuya-yamamoto-8a05691a4/" target="_blank" alt="Linkedin" > 
