@@ -1,6 +1,6 @@
 # 👨‍💻 <Gabriel_Takuya>
 
-<h3 align="center"> Olá, bem vindo ao meu perfil, me chamo Gabriel Takuya Yamamoto, no momento estou cursando o 3° ano em Desenvolvimento de Sistemas na Etec Professor Camargo Aranha.<h3>
+<h3 align="center"> Olá, bem vindo ao meu perfil, me chamo Gabriel Takuya Yamamoto, no momento estou estudando ReactJS, TypeScript e NodeJS.<h3>
 
 <h2> 💻 Tecnologias e ferramentas que utilizo</h2>
 
